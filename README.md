@@ -56,5 +56,3 @@ For more details, check our [Contribution Guidelines](./CONTRIBUTING.md).
 This repository is licensed under the [MIT License](./LICENSE). Feel free to weave its spells into your own creations.
 
 🌟 May your commits be harmonious, and your merges conflict-free. Happy GitWizardry!
-
-_Icons made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com)._
